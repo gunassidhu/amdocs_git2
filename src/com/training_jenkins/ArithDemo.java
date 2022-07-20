@@ -10,7 +10,7 @@ public class ArithDemo {
 		e=a*b;
 		f=a/b;
 		
-		System.out.println("SUCCESS!!");
+		System.out.println("SUCCESS!!!");
 	}
 
 }
